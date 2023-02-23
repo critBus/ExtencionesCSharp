@@ -1,0 +1,10 @@
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\bin\Debug\Pruebas.exe.config
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\bin\Debug\Pruebas.exe
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\bin\Debug\Pruebas.pdb
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\bin\Debug\Extenciones.exe
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\bin\Debug\ReneUtiles.dll
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\bin\Debug\ReneUtiles.pdb
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\bin\Debug\Extenciones.pdb
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\obj\Debug\Pruebas.exe
+D:\Rene\Programacion\Proyectos\C#\Extenciones\Pruebas\obj\Debug\Pruebas.pdb
